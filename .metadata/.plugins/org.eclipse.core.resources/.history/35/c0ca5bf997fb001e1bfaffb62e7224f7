@@ -1,0 +1,5 @@
+package com.jspiders.manytomanybi.dto;
+
+public class Student {
+
+}

@@ -1,0 +1,5 @@
+package com.jspiders.onetomanyuni.dto;
+
+public class Company {
+
+}

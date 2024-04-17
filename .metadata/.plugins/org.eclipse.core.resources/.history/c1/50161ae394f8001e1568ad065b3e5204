@@ -1,0 +1,5 @@
+package com.jspiders.onetoonebi.dto;
+
+public class Person {
+
+}

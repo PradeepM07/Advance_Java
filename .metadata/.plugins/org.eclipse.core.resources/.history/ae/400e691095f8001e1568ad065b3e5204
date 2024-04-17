@@ -1,0 +1,20 @@
+package com.jspiders.onetoonebi.dto;
+
+import javax.persistence.Entity;
+import javax.persistence.Table;
+
+import lombok.Data;
+
+@Entity
+@Table(name = "person_info")
+
+@Data
+public class Person {
+	
+	private int id;
+	private String name;
+	private String email;
+	private long mobile;
+	private Aadhar aadhar;
+
+}

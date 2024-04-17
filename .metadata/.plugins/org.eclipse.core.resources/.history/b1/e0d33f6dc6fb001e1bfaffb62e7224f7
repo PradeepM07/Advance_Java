@@ -1,0 +1,5 @@
+package com.jspiders.manytomanybi.dao;
+
+public class StudentDAO2 {
+
+}

@@ -1,0 +1,11 @@
+package com.jspiders.manytomanybi.dto;
+
+import java.util.List;
+
+public class Subject {
+	
+	private int id;
+	private double fees;
+	List<Student> students;
+
+}

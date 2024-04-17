@@ -1,0 +1,5 @@
+package com.jspiders.manytoone.dao;
+
+public class EmployeeDAO {
+
+}
